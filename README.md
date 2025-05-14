@@ -30,3 +30,11 @@ ToDoApp позволяет пользователю:
 - **SwiftUI** - для создания интерфейса пользователя.
 - **SwiftData** - для управления данными и работы с моделью.
 - **CoreData** - для хранения данных локально.
+
+![IMG_0082](https://github.com/user-attachments/assets/af827667-bb19-40d6-abc2-96c3770a8bd8)
+![IMG_0083](https://github.com/user-attachments/assets/1a3f488e-d3ee-449c-adef-6c0d79173756)
+![IMG_0084](https://github.com/user-attachments/assets/094fc997-96cd-489c-82db-be889a516e07)
+![IMG_0085](https://github.com/user-attachments/assets/fe420f4f-3559-4f61-9e24-5c277b4d782b)
+![IMG_0086](https://github.com/user-attachments/assets/154afe8f-ddae-458b-8f35-720945e03c5d)
+![IMG_0087](https://github.com/user-attachments/assets/c92d8e00-e85c-49c3-a81a-87250d4289cb)
+![IMG_0088](https://github.com/user-attachments/assets/67321fc5-5031-4ec6-b990-1f0fd12265b6)
