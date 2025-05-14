@@ -29,7 +29,6 @@ ToDoApp позволяет пользователю:
 ## Используемые технологии
 - **SwiftUI** - для создания интерфейса пользователя.
 - **SwiftData** - для управления данными и работы с моделью.
-- **CoreData** - для хранения данных локально.
 
 <img src="https://github.com/user-attachments/assets/af827667-bb19-40d6-abc2-96c3770a8bd8" width="300" />
 <img src="https://github.com/user-attachments/assets/1a3f488e-d3ee-449c-adef-6c0d79173756" width="300" />
